@@ -22,7 +22,6 @@ C:\Users\jsrexterno.vsti\source\repos\SuggestionApp\SuggestionAppUI\obj\Debug\ne
 C:\Users\jsrexterno.vsti\source\repos\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\jsrexterno.vsti\source\repos\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\jsrexterno.vsti\source\repos\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\jsrexterno.vsti\source\repos\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\jsrexterno.vsti\source\repos\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\bundle\SuggestionAppUI.styles.css
 C:\Users\jsrexterno.vsti\source\repos\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\scopedcss\projectbundle\SuggestionAppUI.bundle.scp.css
 C:\Users\jsrexterno.vsti\source\repos\SuggestionApp\SuggestionAppUI\obj\Debug\net6.0\SuggestionAppUI.dll
